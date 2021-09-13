@@ -1,2 +1,2 @@
-# GP2
+# Formation
 simple linear regression+multiple linear regression
